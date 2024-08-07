@@ -97,7 +97,6 @@ function redraw()
     print("Outputting text: "..font_text)
     screen.text(font_text)
   end
-  
     
   screen.update()
 end
