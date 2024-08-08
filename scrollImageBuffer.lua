@@ -5,7 +5,7 @@
 -- it is displayed multiple 
 -- times.
 
-local png_filename = "/home/we/dust/code/test/images/image_ML309503171.png"
+local png_filename = "/home/we/dust/code/nornsFun/images/image_ML309503171.png"
 local current_count = 0
 
 function tick(count)
